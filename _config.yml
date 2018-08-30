@@ -25,11 +25,11 @@ title:                 #SmartCustody
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  “Smart Custody” is the use of advanced cryptographic tools to improve the *care*, *maintenance*, *control*, and *protection* of digital assets.
+  “Smart Custody” is the use of advanced cryptographic tools to improve the *care*, *maintenance*, *control*, and *protection* of digital assets. A project of Blockchain Commons.
 
 # A shorter description for the sidebar.
 tagline:               >
-  “Smart Custody” is the use of advanced cryptographic tools to improve the *care*, *maintenance*, *control*, and *protection* of digital assets.
+“Smart Custody” is the use of advanced cryptographic tools to improve the *care*, *maintenance*, *control*, and *protection* of digital assets. A project of [Blockchain Commons](https://www.BlockchainCommons.com)
 
 # A list of keywords for your blog
 keywords:              >
@@ -269,7 +269,7 @@ remote_theme: qwtel/hydejack@gem
 #   admins:              <id>
 
 social:
-name:                <firstname> <lastname>
+name:                BlockchainCommons
   links:
     - https://twitter.com/SmartCustody
     - https://github.com/BlockchainCommons/SmartCustody
