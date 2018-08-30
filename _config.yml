@@ -268,11 +268,11 @@ remote_theme: qwtel/hydejack@gem
 #   publisher:           <id>
 #   admins:              <id>
 
-social:
-name:                BlockchainCommons
-  links:
-    - https://twitter.com/SmartCustody
-    - https://github.com/BlockchainCommons/SmartCustody
+# social:
+# name:                BlockchainCommons
+#   links:
+#     - https://twitter.com/SmartCustody
+#     - https://github.com/BlockchainCommons/SmartCustody
 
 # Other Plugins
 # ---------------------------------------------------------------------------------------
