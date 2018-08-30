@@ -1,0 +1,8 @@
+
+url: https://wwww.SmartCustody.com
+baseurl: /jekyll-remote_theme-test/
+
+remote_theme: "qwtel/hydejack"
+
+plugins:
+  - jekyll-remote-theme
