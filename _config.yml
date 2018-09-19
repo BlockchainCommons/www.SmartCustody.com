@@ -43,7 +43,7 @@ author:                 Blockchain Commons
 #  email:               <mail@domain.tld>
 
 # Used by `jekyll-seo-tag`:
-# twitter:             SmartCustody
+twitter:             SmartCustody
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
@@ -110,7 +110,7 @@ defaults:
 # disqus:                <disqus_shortname>
 
 # Setting a tinyletter username will enable the newsletter subscription box.
-# tinyletter:            <tinyletter_username>
+tinyletter:            SmartCustody
 
 # Hydejack Settings
 # ----------------------------------------------------------------------------------------
@@ -256,8 +256,8 @@ remote_theme: qwtel/hydejack@gem
 #   yandex:              <verification-id>
 
 # Used for Twitter cards
-# twitter:
-#   username:            SmartCustody
+twitter:
+  username:            SmartCustody
 
 # Used for Facebook open graph
 # facebook:
@@ -266,10 +266,10 @@ remote_theme: qwtel/hydejack@gem
 #   admins:              <id>
 
 # social:
-# name:                BlockchainCommons
-#   links:
-#     - https://twitter.com/SmartCustody
-#     - https://github.com/BlockchainCommons/SmartCustody
+name:                SmartCustody
+  links:
+    - https://twitter.com/SmartCustody
+    - https://github.com/BlockchainCommons/SmartCustody
 
 # Other Plugins
 # ---------------------------------------------------------------------------------------
