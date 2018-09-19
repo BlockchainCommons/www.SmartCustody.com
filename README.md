@@ -10,6 +10,8 @@ permalink: /index.html
 
 The website and is an educational project of [Blockchain Commons](https://www.BlockchainCommons.com).
 
+Join the [SmartCustody Announcements List](https://tinyletter.com/SmartCustody).
+
 ## Our Goals
 
 * Raise the bar on best practices for digital asset custodianship by helping build a greater understanding of different custody use cases, risk modeling, and adversary analysis.
@@ -42,6 +44,6 @@ The day will conclude with an open salon to discuss open questions and options f
 * Bryan Bishop — Bitcoin Core Contributor, previously Chief Architect Custody at LedgerX
 * Angus Champion de Crespigny — previously Financial Services Blockchain Leader, EY with 11 years of financial services experience across custody, compliance, cybersecurity, strategy
 
-## Mailing List
+## Announcements List
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/SmartCustody" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/SmartCustody', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
