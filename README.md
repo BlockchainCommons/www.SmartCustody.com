@@ -1,6 +1,7 @@
 ---
-cover: true
+cover: false
 hide_description: true
+permalink: /index.html
 ---
 
 # #SmartCustody
