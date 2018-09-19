@@ -8,7 +8,7 @@ permalink: /index.html
 
 “Smart Custody” is the use of advanced cryptographic tools to improve the *care*, *maintenance*, *control*, and *protection* of digital assets.
 
-The website and is an educational project of [Blockchain Commons](https://www.BlockchainCommons.com).
+This website is an educational project of [Blockchain Commons](https://www.BlockchainCommons.com).
 
 Join the [SmartCustody Announcements List](https://tinyletter.com/SmartCustody).
 
