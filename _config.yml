@@ -35,7 +35,7 @@ keywords:              [smart, custody, digital, assets, smartcontract, smartcon
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  folder-locked.svg
+logo:                  assets/icons/transparent-lock-icon.svg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:                 Blockchain Commons
