@@ -35,7 +35,7 @@ keywords:              [smart, custody, digital, assets, smartcontract, smartcon
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/icon.png
+logo:                  none
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:                 Blockchain Commons
@@ -43,7 +43,7 @@ author:                 Blockchain Commons
 #  email:               <mail@domain.tld>
 
 # Used by `jekyll-seo-tag`:
-# twitter:             <username>
+# twitter:             SmartCustody
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
@@ -257,7 +257,7 @@ remote_theme: qwtel/hydejack@gem
 
 # Used for Twitter cards
 # twitter:
-#   username:            <shortname>
+#   username:            SmartCustody
 
 # Used for Facebook open graph
 # facebook:
