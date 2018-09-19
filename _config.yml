@@ -265,11 +265,11 @@ twitter:
 #   publisher:           <id>
 #   admins:              <id>
 
+# Used on index and about sites
 # social:
-name:                SmartCustody
+  name:                SmartCustody
   links:
     - https://twitter.com/SmartCustody
-    - https://github.com/BlockchainCommons/SmartCustody
 
 # Other Plugins
 # ---------------------------------------------------------------------------------------
