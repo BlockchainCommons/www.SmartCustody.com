@@ -40,14 +40,14 @@ logo:                  assets/icons/transparent-lock-icon.svg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:                 Blockchain Commons
 #  name:                <firstname> <lastname>
-#  email:               <mail@domain.tld>
+email:                  <info@BlockchainCommons.com>
 
 # Used by `jekyll-seo-tag`:
 twitter:             SmartCustody
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  © 2018. All rights reserved.
+  © 2019. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
