@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title:  "First #SmartCustody Workshop: Simple Cold Storage & Self-Custody"
 ---
 ## First Workshop: Simple Cold Storage & Self-Custody
