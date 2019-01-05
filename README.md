@@ -15,7 +15,7 @@ permalink: /index.html
 
   We are coordinating a series of workshops and inviting key ecosystem participants to share and learn the latest in technical and regulatory custody considerations.
 
-  ## First Workshop: Simple Cold Storage & Self-Custody Workshop
+  ## First Workshop: Simple Cold Storage & Self-Custody
 
   Our first #SmartCustody workshop will be on Tue, January 29, 2019, 10:00 AM – 4:00 PM PST, at the Offices of Blockstream Corporation, 554 San Antonio Road, Palo Alto, CA 94040, [Map](https://www.eventbrite.com/e/smartcustody-simple-cold-storage-self-custody-workshop-tickets-54426618481#map-target).
 
