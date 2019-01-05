@@ -1,5 +1,7 @@
 ---
 layout: list
-title: Posts
+title: Blog Posts
 description: "Recent Blog Posts about #SmartCustody"
+menu: true
+order: 1
 ---

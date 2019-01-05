@@ -46,8 +46,7 @@ email:                  <info@BlockchainCommons.com>
 twitter:             SmartCustody
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             >
-  © 2019. All rights reserved.
+copyright:           © 2019. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -89,6 +88,11 @@ font:                  Noto Sans, Helvetica, Arial, sans-serif
 font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 defaults:
+  - scope:
+      path: posts.md
+    values:
+      menu: true
+      order: 1
   - scope:
       path:            hyde
     values:
