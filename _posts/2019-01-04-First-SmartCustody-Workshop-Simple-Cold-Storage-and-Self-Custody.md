@@ -85,14 +85,23 @@ $2,000 includes the workshop, handouts, and other self-custody related materials
 
 ## Hosted By
 
+
+
 [![blockchain-commons-logo](../assets/img/blog/blockchain-commons-logo.png)](https://www.BlockchainCommons.com)
+
+[Blockchain Commons](https://www.blockchaincommons.com/): "Supporting Blockchain Infrastructure, Internet Security & Cryptographic Research"
 
 ## Sponsored by
 
 [![blockstream-logo](../assets/img/blog/blockstream-logo.png)](https:blockstream.com)
 
+[Blockstream](https://blockstream.com/): "Rethinking Trust, Global Leader in Bitcoin and blockchain technology"
+
 [![cryptoasset-inheritance-planning-cover](../assets/img/blog/cryptoasset-inheritance-planning-cover.png)](https://t.co/hsLxiZdQya)
 
+[Cryptoasset Inheritance Planning](https://t.co/hsLxiZdQya): by Pamela Morgan "What happens to my bitcoin, ether, or other cryptoassets when I die?"
+
 [![ledger-logo](../assets/img/blog/ledger-logo.png)](https://www.ledger.com/)
+[Ledger](https://www.ledger.com/): "Developing security and infrastructure solutions for cryptocurrencies"
 
 ## 
