@@ -89,10 +89,10 @@ $2,000 includes the workshop, handouts, and other self-custody related materials
 
 ## Sponsored by
 
-[![blockstream-logo](/Users/christophera/projects/github/BlockchainCommons/SmartCustody/assets/img/blog/blockstream-logo.png)](https:blockstream.com)
+[![blockstream-logo](../assets/img/blog/blockstream-logo.png)](https:blockstream.com)
 
-[![cryptoasset-inheritance-planning-cover](/Users/christophera/projects/github/BlockchainCommons/SmartCustody/assets/img/blog/cryptoasset-inheritance-planning-cover.png)](https://t.co/hsLxiZdQya)
+[![cryptoasset-inheritance-planning-cover](../assets/img/blog/cryptoasset-inheritance-planning-cover.png)](https://t.co/hsLxiZdQya)
 
-[![ledger-logo](/Users/christophera/projects/github/BlockchainCommons/SmartCustody/assets/img/blog/ledger-logo.png)](https://www.ledger.com/)
+[![ledger-logo](../assets/img/blog/ledger-logo.png)](https://www.ledger.com/)
 
 ## 
