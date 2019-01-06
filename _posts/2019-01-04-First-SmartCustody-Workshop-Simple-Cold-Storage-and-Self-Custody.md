@@ -10,7 +10,11 @@ You can signup for the Workshop on [EventBrite](https://www.eventbrite.com/e/sma
 
 ### Overview
 
-This is the first of three different kinds of #SmartCustody workshops. This one is focused on individual holders of digital assets, in particular cryptocurrency traders and those high net-worth individuals who are already familiar & working with digital assets, but are are seeking to learn best practices for protecting themselves and their business from theft, fraud, or loss.
+This is the first of three different #SmartCustody workshops. This workshop is designed for individual holders of digital assets, in particular cryptocurrency traders and those high net-worth individuals who are already familiar & working with digital assets, but are seeking to learn best practices for protecting themselves and their business from theft, fraud, or loss.
+
+- Are you considering all possible threats to your digital assets?
+- Do you have comprehensive procedures to assess your risk profile?
+- How does your system stack up against others in industry?
 
 Future workshops will be focused on holders of digital assets that have fiduciary responsibility to others, such as small investment funds & family firms, and those who are required to use third-party qualified custodians for management of digital assets due to the amount of funds held.
 
