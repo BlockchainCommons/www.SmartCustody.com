@@ -83,7 +83,11 @@ The day will conclude with an open salon to discuss open questions and options f
 
 $2,000 includes the workshop, handouts, and other self-custody related materials. There are a couple $1,000 tickets for registered non-profits that accept or manage cryptocurrency. Contact [Christopher Allen](mailto:ChristopherA@LifeWithAlacrity.com) if you wish to pay via cryptocurrency.
 
-## Sponsors
+## Hosted By
+
+[![blockchain-commons-logo](../assets/img/blog/blockchain-commons-logo.png)](https://www.BlockchainCommons.com)
+
+## Sponsored by
 
 [![blockstream-logo](/Users/christophera/projects/github/BlockchainCommons/SmartCustody/assets/img/blog/blockstream-logo.png)](https:blockstream.com)
 
