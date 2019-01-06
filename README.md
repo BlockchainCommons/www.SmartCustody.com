@@ -11,7 +11,7 @@ Our goals:
 1. Raise the bar on best practices for digital-asset custodianship by building a greater understanding of different custody use cases, risk models, and adversary analyses.
 2. Prepare for newer custody technologies that break older models for custodianship.
 
-We are coordinating a series of workshops and inviting key ecosystem participants to share and learn the latest in technical and regulatory custody considerations.
+We are coordinating a series of workshops and inviting key ecosystem participants to share and learn the latest in technical and regulatory custody considerations. #SmartCustody is a project of [Blockchain Commons](https://www.BlockchainCommons.com), which supports blockchain infrastructure, internet security & cryptographic research.
 
 ## First Workshop: Simple Cold Storage & Self-Custody
 
