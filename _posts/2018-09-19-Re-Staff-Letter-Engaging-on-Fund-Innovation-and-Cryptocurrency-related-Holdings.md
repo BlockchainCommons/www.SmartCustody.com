@@ -123,9 +123,7 @@ Caitlin Long
 
 [^5]: 
 ```
- NFA has been cognizant of commingling at digital asset exchanges, as reflected in mandated risk disclosures (in Interpretive Notice 9073):
- 
-> "Virtual currency exchanges generally purchase virtual currencies for their own account on the public ledger and allocate positions to customers through internal bookkeeping entries while maintaining exclusive control of the private keys.  Under this structure, virtual currency exchanges collect large amounts of customer funds for the purpose of buying and holding virtual currencies on behalf of their customers.  The opaque underlying spot market and lack of regulatory oversight creates a risk that a virtual currency exchange may not hold sufficient virtual currencies and funds to satisfy its obligations and that such deficiency may not be easily identified or discovered."
+ NFA has been cognizant of commingling at digital asset exchanges, as reflected in mandated risk disclosures (in Interpretive Notice 9073): "Virtual currency exchanges generally purchase virtual currencies for their own account on the public ledger and allocate positions to customers through internal bookkeeping entries while maintaining exclusive control of the private keys.  Under this structure, virtual currency exchanges collect large amounts of customer funds for the purpose of buying and holding virtual currencies on behalf of their customers.  The opaque underlying spot market and lack of regulatory oversight creates a risk that a virtual currency exchange may not hold sufficient virtual currencies and funds to satisfy its obligations and that such deficiency may not be easily identified or discovered."
 ```
 
 [^6]: 
