@@ -17,7 +17,15 @@ We are coordinating a series of workshops and inviting key ecosystem participant
 
 Our first #SmartCustody workshop will be on Tue, January 29, 2019, 10:00 AM – 4:00 PM PST, at the Offices of Blockstream Corporation, 554 San Antonio Road, Palo Alto, CA 94040, [Map](https://www.eventbrite.com/e/smartcustody-simple-cold-storage-self-custody-workshop-tickets-54426618481#map-target).
 
-You can signup for the Workshop on [EventBrite](https://www.eventbrite.com/e/smartcustody-simple-cold-storage-self-custody-workshop-tickets-54426618481).
+This is the first of three different #SmartCustody workshops. This workshop is designed for individual holders of digital assets, in particular cryptocurrency traders and those high net-worth individuals who are already familiar & working with digital assets, but are seeking to learn best practices for protecting themselves and their business from theft, fraud, or loss.
+
+- Are you considering all possible threats to your digital assets?
+- Do you have comprehensive procedures to assess your risk profile?
+- How does your system stack up against others in industry?
+
+Future workshops will be focused on holders of digital assets that have fiduciary responsibility to others, such as small investment funds & family firms, and those who are required to use third-party qualified custodians for management of digital assets due to the amount of funds held.
+
+You can signup for the January Workshop on [EventBrite](https://www.eventbrite.com/e/smartcustody-simple-cold-storage-self-custody-workshop-tickets-54426618481).
 
 ## Future Events & Mailing List
 
