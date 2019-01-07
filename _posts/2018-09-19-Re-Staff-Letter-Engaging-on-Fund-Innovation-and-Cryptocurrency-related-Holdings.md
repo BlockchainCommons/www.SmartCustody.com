@@ -122,11 +122,11 @@ Caitlin Long
      We are referring to assets stored in fungible bulk and no longer allocated to their individual owners on the ledger.  For example, many digital asset platforms "commingle" unspent transaction outputs (UTXOs) when a client transfers BTC to the platform.  The manner in which these UXTOs are secured and divided will vary by platform such as using one or more hardware wallets or by separate private keys on the same hardware wallet.  
 
 [^5]: 
-     NFA has been cognizant of commingling at digital asset exchanges, as reflected in mandated risk disclosures (in Interpretive Notice 9073):
-
-
-​    
-    "Virtual currency exchanges generally purchase virtual currencies for their own account on the public ledger and allocate positions to customers through internal bookkeeping entries while maintaining exclusive control of the private keys.  Under this structure, virtual currency exchanges collect large amounts of customer funds for the purpose of buying and holding virtual currencies on behalf of their customers.  The opaque underlying spot market and lack of regulatory oversight creates a risk that a virtual currency exchange may not hold sufficient virtual currencies and funds to satisfy its obligations and that such deficiency may not be easily identified or discovered."
+```
+ NFA has been cognizant of commingling at digital asset exchanges, as reflected in mandated risk disclosures (in Interpretive Notice 9073):
+ 
+> "Virtual currency exchanges generally purchase virtual currencies for their own account on the public ledger and allocate positions to customers through internal bookkeeping entries while maintaining exclusive control of the private keys.  Under this structure, virtual currency exchanges collect large amounts of customer funds for the purpose of buying and holding virtual currencies on behalf of their customers.  The opaque underlying spot market and lack of regulatory oversight creates a risk that a virtual currency exchange may not hold sufficient virtual currencies and funds to satisfy its obligations and that such deficiency may not be easily identified or discovered."
+```
 
 [^6]: 
      Others have recognized the trade-offs between omnibus accounts and segregated accounts.  For example, the Asia Securities Industry and Financial Markets Association (ASIFMA) outlines key advantages and challenges of each in its June 2018 report on Best Practices for Digital Asset Exchanges, available [here](http://www.asifma.org/uploadedfiles/resources/asifma%20best%20practices%20for%20digital%20asset%20exchanges%20june%202018.pdf). At least one author believes it should be a customer choice (if the risks are disclosed appropriately) whether to use a segregated account or one in which digital assets of a client are commingling with digital assets of other clients. That approach would be consistent with recent approaches taken by the CFTC, both generally with respect to Chairman Giancarlo's "do no harm" view on DLT and also on collateral rules for cleared swaps, which the CFTC has recently taken further steps to simplify pursuant to Project KISS.  
