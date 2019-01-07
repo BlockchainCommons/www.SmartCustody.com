@@ -93,6 +93,10 @@ $2,000 includes the workshop, handouts, and other self-custody related materials
 
 ## Sponsored by
 
+[![adamant-capital-logo-with-background](../assets/img/blog/adamant-capital-logo-with-background.png)](https://www.adamantcapitalfund.com/)
+
+[Adamant Capital](https://www.adamantcapitalfund.com/): Bitcoin Alpha Fund. Responsibly outperform Bitcoin in a tax-efficient manner.
+
 [![blockstream-logo](../assets/img/blog/blockstream-logo.png)](https:blockstream.com)
 
 [Blockstream](https://blockstream.com/): "Rethinking Trust, Global Leader in Bitcoin and blockchain technology"
@@ -101,7 +105,9 @@ $2,000 includes the workshop, handouts, and other self-custody related materials
 
 [Cryptoasset Inheritance Planning](https://t.co/hsLxiZdQya): by Pamela Morgan "What happens to my bitcoin, ether, or other cryptoassets when I die?"
 
+[![crypto-tag-logo](../assets/img/blog/crypto-tag-logo.png)](https://cryptotag.io/)
+
+[CryptoTag](https://cryptotag.io/): We got your backup. Your crypto recovery seed and private keys forever stored in pure Titanium.
+
 [![ledger-logo](../assets/img/blog/ledger-logo.png)](https://www.ledger.com/)
 [Ledger](https://www.ledger.com/): "Developing security and infrastructure solutions for cryptocurrencies"
-
-## 
