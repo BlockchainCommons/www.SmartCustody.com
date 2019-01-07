@@ -16,7 +16,7 @@ This is the first of three different #SmartCustody workshops. This workshop is d
 - Do you have comprehensive procedures to assess your risk profile?
 - How does your system stack up against others in industry?
 
-Future workshops will be focused on holders of digital assets that have fiduciary responsibility to others, such as small investment funds & family firms, and those who are required to use third-party qualified custodians for management of digital assets due to the amount of funds held.
+Future workshops will be focused on holders of digital assets that have fiduciary responsibility to others, such as small investment funds & family firms, or those who are required to use third-party qualified custodians for management of digital assets due to the amount of funds held.
 
 ## What you can expect to learn
 
