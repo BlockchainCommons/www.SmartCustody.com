@@ -85,8 +85,6 @@ $2,000 includes the workshop, handouts, and other self-custody related materials
 
 ## Hosted By
 
-
-
 [![blockchain-commons-logo](../assets/img/blog/blockchain-commons-logo.png)](https://www.BlockchainCommons.com)
 
 [Blockchain Commons](https://www.blockchaincommons.com/): "Supporting Blockchain Infrastructure, Internet Security & Cryptographic Research"
