@@ -8,9 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Blockchain Commons supports the blockchain industry, creating
-    technological platforms that aren’t dependent on individual companies.
-    We want to improve the blockchain ecosystem.
+    “Smart Custody” is the use of advanced cryptographic tools to improve the *care*, *maintenance*,
+    *control*, and *protection* of digital assets. Project of [Blockchain Commons](https://www.BlockchainCommons.com),
+    which supports blockchain infrastructure, internet security & cryptographic research.
 
   # This photo will be used in the about section
   picture:
