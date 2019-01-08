@@ -10,8 +10,6 @@ Our first #SmartCustody workshop will be on Tue, January 29, 2019, 10:00 AM – 
 
 You can signup for the Workshop on [EventBrite](https://www.eventbrite.com/e/smartcustody-simple-cold-storage-self-custody-workshop-tickets-54426618481).
 
-<!--more-->
-
 ### Overview
 
 This is the first of three different #SmartCustody workshops. This workshop is designed for individual holders of digital assets, in particular cryptocurrency traders and those high net-worth individuals who are already familiar & working with digital assets, but are seeking to learn best practices for protecting themselves and their business from theft, fraud, or loss.
@@ -23,6 +21,8 @@ This is the first of three different #SmartCustody workshops. This workshop is d
 Future workshops will be focused on holders of digital assets that have fiduciary responsibility to others, such as small investment funds & family firms, or those who are required to use third-party qualified custodians for management of digital assets due to the amount of funds held.
 
 These #SmartCustody workshops are a project of [Blockchain Commons](https://www.BlockchainCommons.com), which supports blockchain infrastructure, internet security & cryptographic research.
+
+<!--more-->
 
 ## What you can expect to learn
 
