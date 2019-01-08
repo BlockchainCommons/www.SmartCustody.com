@@ -6,7 +6,7 @@ excerpt_separator: "<!--more-->"
 ---
 ## First Workshop: Simple Cold Storage & Self-Custody
 
-Our first #SmartCustody workshop will be on Tue, January 29, 2019, 10:00 AM – 4:00 PM PST, at the 554 San Antonio Road, Mountain View, CA 94040-1217, [Map](https://www.eventbrite.com/e/smartcustody-simple-cold-storage-self-custody-workshop-tickets-54426618481#map-target).
+Our first #SmartCustody workshop will be on Tue, January 29, 2019, 10:00 AM – 4:00 PM PST, at 554 San Antonio Road, Mountain View, CA 94040-1217, [Map](https://www.eventbrite.com/e/smartcustody-simple-cold-storage-self-custody-workshop-tickets-54426618481#map-target).
 
 You can signup for the Workshop on [EventBrite](https://www.eventbrite.com/e/smartcustody-simple-cold-storage-self-custody-workshop-tickets-54426618481).
 
