@@ -121,6 +121,6 @@ If you wish to be notified about future #SmartCustody workshops, events, guides,
 
 [Ledger](https://www.ledger.com/): "Developing security and infrastructure solutions for cryptocurrencies"
 
-[![winstead-logo](../assets/img/blog/winstead-logo.png)](https://www.winstead.com/Industries/Investment-Management-Private-Funds)
+[![winstead-logo](../assets/img/blog/winstead-logo.png)](https://www.winstead.com/Practices/Corporate-SecuritiesMA/Fintech-Cryptocurrencies-Emerging-Technologies)
 
-[Winstead](https://www.winstead.com/Industries/Investment-Management-Private-Funds): "We counsel investment funds and entrepreneurs on digital assets"
+[Winstead](https://www.winstead.com/Practices/Corporate-SecuritiesMA/Fintech-Cryptocurrencies-Emerging-Technologies): "We counsel investment funds and entrepreneurs on digital assets"
