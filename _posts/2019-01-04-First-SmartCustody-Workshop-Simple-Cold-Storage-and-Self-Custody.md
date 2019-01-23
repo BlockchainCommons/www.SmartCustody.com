@@ -91,7 +91,7 @@ $2,000 includes the workshop, handouts, and other self-custody related materials
 
 ## Future Events & Mailing List
 
-If you wish to be notified about future #SmartCustody workshops, events, guides, books, etc. you can subscribe to our Announcements Mailing List.
+If you wish to be notified about future #SmartCustody workshops, events, guides, books, etc. you can subscribe to our [Announcements Mailing List](https://tinyletter.com/smartcustody).
 
 ## Hosted By
 
