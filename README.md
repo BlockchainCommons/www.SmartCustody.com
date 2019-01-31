@@ -23,15 +23,17 @@ We asked them the questions:
 - Do you have comprehensive procedures to assess your risk profile?
 - How does your system stack up against others in industry?
 
-We had 17 people signup for this event from a very diverse set of backgrounds, including: two attorneys, a hedge-fund advisor, a Bitcoin Core contributor, a Dash blockchain expert, some operations and IT people, a long-tem bitcoin HODLer, and few people from an upcoming custodial service.
+We had 17 people signup for this event from a very diverse set of backgrounds, including: two attorneys, a hedge-fund advisor, a Bitcoin Core contributor, a Dash blockchain expert, some operations and IT people, a long-tem bitcoin HODLer, and few people from an upcoming custodial service. All participants received a printed workbook, titanium tiles, engraving tools, waterproof paper and permanent marker, dice and EFF word list, and Pamela Morgan's book on Cryptoasset Inheritance Planning.
 
-All participants received a printed workbook, titanium tiles, engraving tools, waterproof paper and permanent marker, dice and EFF word list, and Pamela Morgan's book on Cryptoasset Inheritance Planning.
+### Workshop Sessions
 
 The morning of the workshop focused on a cold-storage scenario meant to introduce the larger process of how custory scenarios are created, and how and why various risk decisions were made (especially since mitigating one risk might increase a different risk). We also covered in  detail nine of twenty-four digital asset "adversaries" that we've identified and had a good discussion about them.
 
 In the afternoon we got to the real "meat" of the workshop: how to use risk modeling and adversarial analysis to make better decisions on where to focus improvements to your processes. We started with an overview of the risk modeling process for the cold-storage scenario, but then together brainstormed  how to apply this process to a different scenario (in this case a small-time currency trader). By the end, everyone felt that they understood how this process works, and how applying it could have real impact. (In our trader scenario we discovered that maybe having a fresh known-good USB copy of your OS to double-check exchange data before various critical transfers might be useful, and that the trader should try to persuade Gemini to support real FIDO2 keys rather than using phone-based Authy for authentication).
 
 Our last session focused on wallets. We dicussed the importance of randomness to cryptography, reviewed the differences between the approaches of Ledger and Trezor, explored the strengths of various new, upcoming and experimental wallets — including the new HTC Exodus phone and the Ellipal AirGap wallet — and analyzed how support of partially-signed bitcoin transactions in future wallets will make multisigs easier. We also touched upon how simple smart contracts can enable new forms of custody, such as Green Address' two-of-two approach. This last topic will be covered in more depth in the second workshop in this series.
+
+### Workshop Conclusions
 
 We closed the day by discussing how to improve the workshop itself, especially given the very diverse audience that came. There were no easy answers but everyone agreed that the risk modeling and adversarial analysis were very powerful. Many said that they wanted to recommend to others that they come to future workshops, and some content suggestions were made based on who they thought should come.
 
