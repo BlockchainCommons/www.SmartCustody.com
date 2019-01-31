@@ -13,10 +13,9 @@ Our goals:
 
 We are coordinating a series of workshops and inviting key ecosystem participants to share and learn the latest in technical and regulatory custody considerations. #SmartCustody is a project of [Blockchain Commons](https://www.BlockchainCommons.com), which supports blockchain infrastructure, internet security & cryptographic research.
 
-## #SmartCustody Level I Workshop
-#### Simple Cold Storage & Self-Custody
+## #SmartCustody I Workshop: Cold Storage & Self-Custody
 
-Our first #SmartCustody workshop was held on Tue, January 29, 2019, 10:00 AM – 4:00 PM PST, in Mountain View, California. This workshop was designed for individual holders of digital assets, in particular cryptocurrency traders and those high net-worth individuals who are already familiar & working with digital assets, but were seeking to learn best practices for protecting themselves and their business from theft, fraud, or loss.
+Our first #SmartCustody workshop, on "Simple Cold Storage & Self-Custody" was held on Tue, January 29, 2019, 10:00 AM – 4:00 PM PST, in Mountain View, California. This workshop was designed for individual holders of digital assets, in particular cryptocurrency traders and those high net-worth individuals who are already familiar & working with digital assets, but were seeking to learn best practices for protecting themselves and their business from theft, fraud, or loss.
 
 We asked them the questions:
 
