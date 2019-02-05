@@ -41,7 +41,7 @@ We expect to make versions of all of our printed materials for this workshop pub
 
 Our workshop was sponsored by [Adamant Capital](https://www.adamantcapitalfund.com/),[ Blockstream](https://blockstream.com/) [Cryptoasset Inheritance Planning](https://t.co/hsLxiZdQya), [CRYPTOTAG](https://cryptotag.io/), [Digital Contract Design](https://contract.design), [Ledger](https://www.ledger.com/), [Winstead](https://www.winstead.com/Practices/Corporate-SecuritiesMA/Fintech-Cryptocurrencies-Emerging-Technologies). We also want to thank all experts who contributed to our peer review, and the participants of the workshop, who made the launch of our first #SmartCustody workshops a success. We look forward to collaborating with you on this topic in the future!
 
-*[Other Blog Posts](https://www.smartcustody.com/posts/)
+_**[More Blog Posts…](https://www.smartcustody.com/posts/)**_
 
 ## Future Events & Mailing List
 
@@ -50,3 +50,4 @@ Simple Cold Storage & Self-Custody is the first of three different #SmartCustody
 Keep apprised of our workshop and release of best-practices and other educational documents through our email newsletter:
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/SmartCustody" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/SmartCustody', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+
