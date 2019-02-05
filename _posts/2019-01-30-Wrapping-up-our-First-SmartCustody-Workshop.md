@@ -1,18 +1,9 @@
 ---
-title: "#SmartCustody"
-layout: home
-permalink: /index.html
+layout: post
+title:  "Wrapping up our First #SmartCustody Workshop"
+excerpt_separator: "<!--more-->"
+
 ---
-
-*"The use of advanced cryptographic tools to improve the care, maintenance, control, and protection of digital assets."*
-
-Our goals:
-
-1. Raise the bar on best practices for digital-asset custodianship by building a greater understanding of different custody use cases, risk models, and adversary analyses.
-2. Prepare for newer custody technologies that break older models for custodianship.
-
-We are coordinating a series of workshops and inviting key ecosystem participants to share and learn the latest in technical and regulatory custody considerations. #SmartCustody is a project of [Blockchain Commons](https://www.BlockchainCommons.com), which supports blockchain infrastructure, internet security & cryptographic research.
-
 ## Wrapping up our First #SmartCustody Workshop
 
 Our first #SmartCustody workshop, on [Simple Cold Storage & Self-Custody](https://www.smartcustody.com/2019-01-04-First-SmartCustody-Workshop-Simple-Cold-Storage-and-Self-Custody/) was held on Tue, January 29, 2019, 10:00 AM – 4:00 PM PST, in Mountain View, California. This workshop was designed for individual holders of digital assets, in particular cryptocurrency traders and those high net-worth individuals who are already familiar & working with digital assets, but were seeking to learn best practices for protecting themselves and their business from theft, fraud, or loss.
@@ -24,6 +15,8 @@ We asked them the questions:
 - How does your system stack up against others in industry?
 
 We had 17 people signup for this event from a very diverse set of backgrounds, including: two attorneys, a hedge-fund advisor, a Bitcoin Core contributor, a Dash blockchain expert, some operations and IT people, a long-tem bitcoin HODLer, and few people from an upcoming custodial service. All participants received a printed workbook, titanium tiles, engraving tools, waterproof paper and permanent marker, dice and EFF word list, and Pamela Morgan's book on Cryptoasset Inheritance Planning.
+
+<!--more-->
 
 ### Workshop Sessions
 
@@ -41,12 +34,6 @@ We expect to make versions of all of our printed materials for this workshop pub
 
 Our workshop was sponsored by [Adamant Capital](https://www.adamantcapitalfund.com/),[ Blockstream](https://blockstream.com/) [Cryptoasset Inheritance Planning](https://t.co/hsLxiZdQya), [CRYPTOTAG](https://cryptotag.io/), [Digital Contract Design](https://contract.design), [Ledger](https://www.ledger.com/), [Winstead](https://www.winstead.com/Practices/Corporate-SecuritiesMA/Fintech-Cryptocurrencies-Emerging-Technologies). We also want to thank all experts who contributed to our peer review, and the participants of the workshop, who made the launch of our first #SmartCustody workshops a success. We look forward to collaborating with you on this topic in the future!
 
-*[Other Blog Posts](https://www.smartcustody.com/posts/)
+### Future Events & Mailing List
 
-## Future Events & Mailing List
-
-Simple Cold Storage & Self-Custody is the first of three different #SmartCustody workshops. Future workshops will be focused on holders of digital assets that have fiduciary responsibility to others, such as small investment funds & family firms, and those who are required to use third-party qualified custodians for management of digital assets due to the amount of funds held.
-
-Keep apprised of our workshop and release of best-practices and other educational documents through our email newsletter:
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/SmartCustody" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/SmartCustody', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+If you wish to be notified about future #SmartCustody workshops, events, guides, books, etc. you can subscribe to our [Announcements Mailing List](https://tinyletter.com/smartcustody).
