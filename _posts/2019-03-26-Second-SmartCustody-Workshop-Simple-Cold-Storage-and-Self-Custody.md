@@ -6,7 +6,7 @@ excerpt_separator: "<!--more-->"
 ---
 ## Second #SmartCustody Workshop: Simple Cold Storage & Self-Custody
 
-Our second #SmartCustody workshop will be on Monday, March 29, 2019, 10:00 AM – 4:00 PM PST, at 554 San Antonio Road, Mountain View, CA 94040-1217, [Map](https://www.eventbrite.com/e/smartcustody-simple-cold-storage-self-custody-workshop-tickets-59357758654#map-target).
+Our second #SmartCustody workshop will be on Monday, April 29, 2019, 10:00 AM – 4:00 PM PST, at ETC Labs, 111 Ellis Street, Second Floor, San Francisco, CA 94102, [Map](https://www.eventbrite.com/e/smartcustody-simple-cold-storage-self-custody-workshop-tickets-59357758654#map-target).
 
 You can signup for the Workshop on [EventBrite](http://bit.ly/SmartCustodyWorkshop2).
 
