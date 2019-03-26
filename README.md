@@ -33,15 +33,15 @@ These #SmartCustody workshops are a project of [Blockchain Commons](https://www.
 
 ***[(See full blog post…](https://www.smartcustody.com/2019-03-26-Second-SmartCustody-Workshop-Simple-Cold-Storage-and-Self-Custody/))***
 
-*(This is an archive copy of the specific 1.0.0  release. The current release will always be on [GitHub](https://github.com/BlockchainCommons/SmartCustodyWhitePapers/blob/master/%23SmartCustody-_Simple_Self-Custody_Cold_Storage_Scenario.md).)*
-
-# #SmartCustody: Simple Self-Custody Cold Storage Scenario
+## #SmartCustody: Simple Self-Custody Cold Storage Scenario
 
 **Best Practices for Protecting Your Personal Digital Assets Using Cold Storage**
 
 #### _Part of the [#SmartCustody](https://www.SmartCustody.com) project of the [Blockchain Commons](https://www.blockchaincommons.com/)_
 
 **_Version: 2019-03-25 Release 1.0.0_**
+
+*(This is an archive copy of the specific 1.0.0  release. The current release will always be on [GitHub](https://github.com/BlockchainCommons/SmartCustodyWhitePapers/blob/master/%23SmartCustody-_Simple_Self-Custody_Cold_Storage_Scenario.md).)*
 
 ### Disclaimer
 
