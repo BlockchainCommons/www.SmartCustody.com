@@ -2,8 +2,8 @@
 layout: project
 title: Simple Custody "Cold Storage" Scenario
 date: 29 Jan 2019
-image: /assets/img/projects/hy-push-state.svg
-screenshot: /assets/img/projects/hy-push-state.svg
+image: /assets/img/projects/project-scenario.jpg
+screenshot: /assets/img/projects/project-scenario.jpg
 links:
   - title: Simple Custody "Cold Storage" Scenario
     url: https://github.com/BlockchainCommons/SmartCustodyWhitePapers/blob/master/%23SmartCustody-_Simple_Self-Custody_Cold_Storage_Scenario.md
