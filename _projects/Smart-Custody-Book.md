@@ -2,8 +2,8 @@
 layout: project
 title: #SmartCustody Book
 date: 17 Sept 2019
-image: /assets/img/projects/hy-push-state.svg
-screenshot: /assets/img/projects/hy-push-state.svg
+image: /assets/img/projects/project-book.jpg
+screenshot: /assets/img/projects/project-book.jpg
 links:
   - title: #SmartCustody Book
     url: https://bit.ly/SmartCustodyBookV101
