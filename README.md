@@ -23,7 +23,7 @@ This first #SmartCustody book focuses on a risk-modeling exercise, which teaches
 
 Though this first book is focused on a self-custodian scenario, it also discusses fiduciary duties and demonstrates how the risk-modeling exercise may be used for the more complex scenario of a family fund. Future #SmartCustody releases will expand on dual-control, multisignatures, and other #SmartCustody technologies required for custodianship models of that sort.
 
-***[(See full blog post…](https://www.smartcustody.com/2019-03-26-Second-SmartCustody-Workshop-Simple-Cold-Storage-and-Self-Custody/))***
+***[(See full blog post…](https://www.smartcustody.com/2019-09-17-Blockchain-Commons-Releases-First-SmartCustody-Book/))***
 
 ## #SmartCustody: Simple Self-Custody Cold Storage Scenario
 
