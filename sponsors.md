@@ -1,28 +1,38 @@
 # #SmartCustody Sponsors
 
-The mission of the Blockchain Commons is to support blockchain infrastructure and the broader security industry through cryptographic research, cryptographic & privacy protocol implementations, architecture & code reviews, industry standards, and supportive documentation. We are a “not-for-profit” benefit corporation, with a strong commitment to open source and a defensive patent strategy. 
+## Why Sponsor?
 
-Our mission is funded by people like you: your personal or corporate patronage can help the Commons to accomplish its goals. Together, we can expand and improve the blockchain infrastructure that's used by our entire industry, and with your gift, we can remain independent while doing so. 
+*#SmartCustody* is a project of [Blockchain Commons](https://www.blockchaincommons.com/). Our mission is to support open blockchain infrastructure and the broader security industry. We are proudly a "not-for-profit" social benefit corporation committed to open source & open development. 
 
-##Sponsors of First Edition
+Our mission is funded entirely by donations and collaborative partnerships with people like you. Every contribution will be spent on building open tools, technologies, and techniques that sustain and advance blockchain and internet security infrastructure and promote an open web. 
 
-The following parties have contributed to this project in order to make it freely available to the public and to support continued updates as technology changes. If you're interested in sponsoring this or other Blockchain Commons projects, contact [ChristopherA](mailto:ChristopherA@blockchaincommons.com). You can also make a one-time contribution via our [Support #SmartCustody Book Crowdfunding](https://smartcustody.btcpay.blockchaincommons.com/) page.
+Your personal or corporate patronage can help us to accomplish to further the development of *#SmartCustody* and other projects. Together, we can expand and improve the blockchain infrastructure that's used by our entire industry, and with your gift, we can remain independent while doing so. 
+
+Please consider becoming a Patron of Blockchain Commons and support *#SmartCustody* as well as other other projects intended to improve blockchain and cryptocurrency infrastructure though ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also support Blockchain Commons with bitcoins at our [BTCPay Server](https://btcpay.blockchaincommons.com/).
+
+## Help Sponsor #SmartCustody Second Edition!
+
+We are also working on a Second Edition of the *#SmartCustody* book. This new edition of the book will reorganize the text to make it more approachable, expand our options for more hardware wallets, introduce scenarios for multi-signatures, and discuss fiduciary responsibility (see our [planned table of contents]( https://github.com/BlockchainCommons/SmartCustodyBook/blob/master/TODO.md)). I invite you to join the sponsors and patrons who made the [First Edition](https://www.smartcustody.com/2019-09-17-Blockchain-Commons-Releases-First-SmartCustody-Book/) of this book freely available to the public.
+
+You can do so by helping us meet our goal of 5 BTC dedicated to Second Ediition of *#SmartCustody* project by donating via our [#SmartCustody Book Crowdfunding](https://smartcustody.btcpay.blockchaincommons.com/) page. 
+
+Particularly for business and service providers, if you donate 1 BTC, or sign up as Sustaining Patron at [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons) ($1000/mo), we will accept a one-page non-bleed informative flier about your business or services for inclusion in the next edition of our book. You will be listed as a sponsor and, where appropriate we will list your product or services as an option. (But even if you're not a business, or you want to sponsor us with a smaller amount, we encourage you to do so!)
+
+##Sponsors of the First Edition
+
+The following parties have contributed to the First Edition of *#SmartCustody* in order to make it freely available to the public.
 
 ### Sustaining Patrons
 
 Sustaining patrons have made an ongoing commitment of funds for the support of Blockchain Commons and/or its #SmartCustody work.
 
-{float: left, width: "30%"}
 ![](assets/img/sponsors/dcd.png)
 
 **[Digital Contract Design](https://contract.design)** creates contracts with trust minimization. They engage in Contract Design to show how contracts could be made more reliable; they offer Threat Analysis to demonstrate how well contract design holds up in an adversarial setting; and they work with the W3C Credentials Community Group and Rebooting Web-of-Trust community to provide a Self-Sovereign Identity Wallet.
 
-{float: left, width: "30%"}
 ![](assets/img/sponsors/htcexodus.png)
 
 **[HTC Exodus](https://www.htcexodus.com/eu/)** is the product of HTC, who brings brilliance to life through leading innovation in smart mobile device and experience design. Beginning with a vision to put a personal computer in the palm of our customers’ hands, they have led the way in the evolution from palm PC to smartphone. Their goal for the Exodus blockchain phone is to rebuild trust, one phone at a time.
-
-{pagebreak}
 
 ### Project Sponsors
 
@@ -34,7 +44,7 @@ Project sponsors have donated funds specifically for the  creation of this #Smar
 
 ![](assets/img/sponsors/beam.png)
 
- **[Beam Privacy](https://beam.mw)** is a scalable confidential cryptocurrency: a Mimblewimble implementation. It completely conceals the values and metadata of transactions, in a prunable way which also reduces bloating on the blockchain. In addition to enhanced privacy and fungibility, this allows for much greater scalability. Beam's emphasis is on privacy, scalability, and usability. Download [their wallet](https://beam.mw/downloads) to try it out. 
+**[Beam Privacy](https://beam.mw)** is a scalable confidential cryptocurrency: a Mimblewimble implementation. It completely conceals the values and metadata of transactions, in a prunable way which also reduces bloating on the blockchain. In addition to enhanced privacy and fungibility, this allows for much greater scalability. Beam's emphasis is on privacy, scalability, and usability. Download [their wallet](https://beam.mw/downloads) to try it out. 
 
 ![](assets/img/sponsors/blockchainbird.png)
 
@@ -86,7 +96,7 @@ Thanks to the following who have offered financial contributions to the #SmartCu
 - **Frederic Meyer**
 - **David Strayhorn**
 
-If you would like to support this project and be added to this list of financial contributors, you can do so via the [#SmartCustody Book Crowdfunding](https://smartcustody.btcpay.blockchaincommons.com/) page on our [BTCPay](https://btcpay.blockchaincommons.com/) server (also available via the QR code below). You can also contact [ChristopherA](mailto:ChristopherA@blockchaincommons.com) directly, particularly if you're interested in making a larger or continuing contribution.
+If you would like to support the Second Edition of *#SmartCustody* and be added to this list of financial contributors, you can do so via the [#SmartCustody Book Crowdfunding](https://smartcustody.btcpay.blockchaincommons.com/) page on our [BTCPay](https://btcpay.blockchaincommons.com/) server (also available via the QR code below).
 
 ![](./support-btcpay.png)
 
