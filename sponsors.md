@@ -16,9 +16,9 @@ We are also working on a Second Edition of the *#SmartCustody* book. This new ed
 
 You can do so by helping us meet our goal of 5 BTC dedicated to Second Ediition of *#SmartCustody* project by donating via our [#SmartCustody Book Crowdfunding](https://smartcustody.btcpay.blockchaincommons.com/) page. 
 
-Particularly for business and service providers, if you donate 1 BTC, or sign up as Sustaining Patron at [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons) ($1000/mo), we will accept a one-page non-bleed informative flier about your business or services for inclusion in the next edition of our book. You will be listed as a sponsor and, where appropriate we will list your product or services as an option. (But even if you're not a business, or you want to sponsor us with a smaller amount, we encourage you to do so!)
+Particularly for business and service providers, if you donate 1 BTC, or sign up as Sustaining Patron at [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons) ($1000/mo), we will accept a one-page non-bleed informative flier about your business or services for inclusion in the next edition of our book. You will be listed as a sponsor and, where appropriate, we will list your product or services as an option. (But even if you're not a business, or you want to sponsor us with a smaller amount, we encourage you to do so!)
 
-##Sponsors of the First Edition
+## Sponsors of the First Edition
 
 The following parties have contributed to the First Edition of *#SmartCustody* in order to make it freely available to the public.
 
