@@ -21,9 +21,9 @@ Our goals:
 
 ## Most Recent Post
 
- <a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-      {{ site.posts[0].excerpt }}
-      
+[{{ site.posts[0].title }}]({{ site.posts[0].url }})
+
+{{ site.posts[0].excerpt }}
 
 ## Future Events & Mailing List
 
