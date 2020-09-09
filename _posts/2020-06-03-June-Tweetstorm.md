@@ -5,6 +5,8 @@ excerpt_separator: "<!--more-->"
 
 ---
 
+## June TweetStorms on #SmartCustody Adversaries, 1-on-1 Advice, Supporting Smart Custody Book v2
+
 On June 3, 2020, Christopher Allen sent out a letter announcing a month of #SmartCustody posts on adversaries and talking about Blockchain Commons' plans for v2 of the book.
 
 Here is an archived copy:
