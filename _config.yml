@@ -94,6 +94,11 @@ defaults:
       menu: true
       order: 1
   - scope:
+      path: sponsors.md
+    values:
+      menu: true
+      order: 2
+  - scope:
        path:            hyde
     values:
       accent_color:    rgb(38,139,210)
