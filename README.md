@@ -13,6 +13,8 @@ Our goals:
 
 We are coordinating a series of workshops and inviting key ecosystem participants to share and learn the latest in technical and regulatory custody considerations. #SmartCustody is a project of [Blockchain Commons](https://www.BlockchainCommons.com), which supports blockchain infrastructure, internet security & cryptographic research.
 
+<!--posts-->
+
 ## Blockchain Commons Releases First #SmartCustody Book
 
 _Your digital assets are more vulnerable you might think!_
