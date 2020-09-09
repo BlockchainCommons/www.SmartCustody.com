@@ -29,7 +29,7 @@ We are also preparing to work on [the second edition of the book](https://github
 
 [(_read more_)]({{ site.posts[0].url }})
 
-## Future Rleases & Mailing List
+## Future Releases & Mailing List
 
 Keep apprised of our work on #SmartCustody, the next edition of the book, and other releases of best-practices and other educational documents through our email newsletter:
 
