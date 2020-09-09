@@ -15,6 +15,15 @@ We are coordinating a series of workshops and inviting key ecosystem participant
 
 <!--posts-->
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
 ## Blockchain Commons Releases First #SmartCustody Book
 
 _Your digital assets are more vulnerable you might think!_
