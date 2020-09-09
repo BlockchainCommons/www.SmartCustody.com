@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "June TweetStorms on #SmartCustody Adversaries, 1-on-1 Advice, Supporting Smart Custody Book v2"
+excerpt_separator: "<!--more-->"
+
 ---
 
 On June 3, 2020, Christopher Allen sent out a letter announcing a month of #SmartCustody posts on adversaries and talking about Blockchain Commons' plans for v2 of the book.
@@ -16,6 +18,8 @@ If you haven't read our book, then the good news is that it is still freely avai
 One of the most unique elements of our #SmartCustody approach is Adversarial Analysis. It's a new methodology meant to make risk-modeling less overwhelming and more approachable. Our adversaries are anthropomorphized dangers, which helps us to better understand their motivations. With those motivations in hand, we can then make assessments less emotionally. Though some things might scare us when we consider them from afar, when we look at them more closely, we can determine whether they actually are threats or not, and how much attention we should give them.
 
 This month I'm offering a daily series of Tweetstorms talking about all of the adversaries we describe in the book. Please join me and offer your own stories and experiences (and tell us what we're missing): <a href="https://twitter.com/Christophera">https://twitter.com/Christophera</a> starting at <a href="https://twitter.com/ChristopherA/status/1267560481855639553">https://twitter.com/ChristopherA/status/1267560481855639553</a>.
+
+<!--more-->
 
 If you need more than that, I am personally available to help you assess the safety of your digital assets. I am now offering a 50-minute personal Zoom call for $500 where I can help you by looking over your own digital asset scenario, your wallet hardware & software choices, answer your questions, and offer my my own #SmartCustody suggestions for how you might incrementally improve the safety of your digital assets.
 
