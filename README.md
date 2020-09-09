@@ -18,13 +18,11 @@ Our goals:
 ## Blog Posts
 
 <!--posts-->
-
 ## Most Recent Post
 
 ### [{{ site.posts[0].title }}]({{ site.posts[0].url }})
 
 {{ site.posts[0].excerpt }}
-
 ## Future Events & Mailing List
 
 Simple Cold Storage & Self-Custody is the first of three different #SmartCustody workshops. Future workshops will be focused on holders of digital assets that have fiduciary responsibility to others, such as small investment funds & family firms, and those who are required to use third-party qualified custodians for management of digital assets due to the amount of funds held.
