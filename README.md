@@ -21,7 +21,7 @@ Our goals:
 
 ## Most Recent Post
 
-[{{ site.posts[0].title }}]({{ site.posts[0].url }})
+### [{{ site.posts[0].title }}]({{ site.posts[0].url }})
 
 {{ site.posts[0].excerpt }}
 
