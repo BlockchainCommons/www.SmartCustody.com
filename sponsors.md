@@ -14,7 +14,7 @@ Please consider becoming a Patron of Blockchain Commons and support *#SmartCusto
 
 We are also working on a Second Edition of the *#SmartCustody* book. This new edition of the book will reorganize the text to make it more approachable, expand our options for more hardware wallets, introduce scenarios for multi-signatures, and discuss fiduciary responsibility (see our [planned table of contents]( https://github.com/BlockchainCommons/SmartCustodyBook/blob/master/TODO.md)). I invite you to join the sponsors and patrons who made the [First Edition](https://www.smartcustody.com/2019-09-17-Blockchain-Commons-Releases-First-SmartCustody-Book/) of this book freely available to the public.
 
-You can do so by helping us meet our goal of 5 BTC dedicated to Second Ediition of *#SmartCustody* project by donating via our [#SmartCustody Book Crowdfunding](https://smartcustody.btcpay.blockchaincommons.com/) page. 
+You can do so by helping us meet our goal of 5 BTC dedicated to Second Ediition of *#SmartCustody* project by donating via our [BTCPay page](https://btcpay.blockchaincommons.com/) page. 
 
 Particularly for business and service providers, if you donate 1 BTC, or sign up as Sustaining Patron at [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons) ($1000/mo), we will accept a one-page non-bleed informative flier about your business or services for inclusion in the next edition of our book. You will be listed as a sponsor and, where appropriate, we will list your product or services as an option. (But even if you're not a business, or you want to sponsor us with a smaller amount, we encourage you to do so!)
 
@@ -96,7 +96,7 @@ Thanks to the following who have offered financial contributions to the #SmartCu
 - **Frederic Meyer**
 - **David Strayhorn**
 
-If you would like to support the Second Edition of *#SmartCustody* and be added to this list of financial contributors, you can do so via the [#SmartCustody Book Crowdfunding](https://smartcustody.btcpay.blockchaincommons.com/) page on our [BTCPay](https://btcpay.blockchaincommons.com/) server (also available via the QR code below).
+If you would like to support the Second Edition of *#SmartCustody* and be added to this list of financial contributors, you can do so via the  [BTCPay](https://btcpay.blockchaincommons.com/) server (also available via the QR code below).
 
 ![](./support-btcpay.png)
 
